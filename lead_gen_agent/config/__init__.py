@@ -1,6 +1,7 @@
 """
 Configuration module for the Lead Generation Agent.
 Loads environment variables and provides centralized configuration.
+it is here so that the user doesn"t hardcore the api"s one by one 
 """
 
 import os
